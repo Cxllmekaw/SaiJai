@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sai Jai logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7B8CE"/>
+      <stop offset="100%" stop-color="#DCC9FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#g)"/>
+  <path d="M32 48 16 34C7 25 18 13 32 24 46 13 57 25 48 34Z" fill="#FFFFFF"/>
+  <path d="M21 34h6l3-6 5 11 4-7h5" fill="none" stroke="#F18CAC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

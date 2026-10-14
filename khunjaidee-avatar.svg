@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="คุณใจดี AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF1E8"/>
+      <stop offset="1" stop-color="#DCC9FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="220" height="220" rx="40" fill="url(#bg)"/>
+  <circle cx="110" cy="110" r="80" fill="#FFFFFF" opacity="0.35"/>
+  <path d="M86 56c-27 11-46 36-49 65-3 18 2 39 15 56 5 7 8 15 8 23v2h97v-2c0-8 3-16 8-23 11-15 16-34 14-53-4-38-34-68-71-70-7-1-15 0-22 2z" fill="#6B5265"/>
+  <path d="M66 110c7-13 19-28 33-43 8 12 23 25 52 32 14 3 25 8 33 14 1-8 1-16-1-24-6-31-34-54-66-54-6 0-12 1-18 3-27 9-43 40-33 72z" fill="#7A6077"/>
+  <rect x="78" y="83" width="65" height="22" rx="11" fill="#F7B8CE"/>
+  <circle cx="110" cy="116" r="46" fill="#FFF5F7" stroke="#E6CCD8" stroke-width="3"/>
+  <circle cx="94" cy="113" r="3.8" fill="#5A4A56"/>
+  <circle cx="126" cy="113" r="3.8" fill="#5A4A56"/>
+  <circle cx="82" cy="126" r="8" fill="#FFC6D7" opacity="0.75"/>
+  <circle cx="138" cy="126" r="8" fill="#FFC6D7" opacity="0.75"/>
+  <path d="M108 122q2-3 4 0q-2 4-4 0z" fill="#D87E9F"/>
+  <path d="M102 128q8 8 16 0" fill="none" stroke="#7B6672" stroke-linecap="round" stroke-width="2"/>
+  <path d="M73 185v-26c0-11 9-20 20-20h34c11 0 20 9 20 20v26" fill="#FFFFFF" stroke="#E7DAE1" stroke-width="3"/>
+  <path d="M94 158c6 10 16 16 24 16s18-6 24-16" fill="none" stroke="#DCC9FF" stroke-width="7" stroke-linecap="round"/>
+  <path d="M110 192c-17-13-43-32-39-49 3-20 27-23 39-7 13-16 37-13 40 7 3 18-23 36-40 49z" fill="#F7AFC6" stroke="#EB91B0" stroke-width="3"/>
+  <path d="M96 155c6-7 10-8 15-2M113 153q6-4 14 2" fill="none" stroke="#FFE7EF" stroke-width="3" stroke-linecap="round"/>
+</svg>
